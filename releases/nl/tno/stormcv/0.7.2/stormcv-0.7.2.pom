@@ -43,10 +43,6 @@
 			<id>StormCV repo</id>
 			<url>https://github.com/arminnima/maven/tree/master/releases/</url>
 		</repository>
-		<repository>
-			<id>xuggle repo</id>
-			<url>https://mvnrepository.com/artifact/org.openimaj/xuggle-video</url>
-		</repository>
 	</repositories>
 	<dependencies>
 		<dependency>
